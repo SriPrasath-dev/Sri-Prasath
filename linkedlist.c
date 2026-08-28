@@ -75,7 +75,7 @@ int main()
 
     removeDuplicates(head);
 
-    printf("After removing duplicates:\n");
+    printf("After n removing duplicates:\n");
     display(head);
 
     return 0;
