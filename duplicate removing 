@@ -39,7 +39,7 @@ void display(struct Node *head)
     }
 
     printf("NULL\n");
-}
+}n
 
 int main()
 {
